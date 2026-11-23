@@ -116,9 +116,11 @@
       <text class="med-l" x={sx(MEDIANE)} y={M.h - 10}>{T.mediane}</text>
 
       <!-- Cercles -->
+      <g class="nuage" class:estompe={survol}>
       {#each pts as p (p.i)}
-        <circle cx={p.cx} cy={p.cy} r={p.r} class={p.h ? 'c-plus' : 'c-moins'} />
+        <circle cx={p.cx} cy={p.cy} r={p.r} class={p.h ? 'c-plus' : 'c-moins'} class:actif={survol && survol.i === p.i} />
       {/each}
+      </g>
 
       <!-- Moyennes -->
       <line x1={M.g} x2={sx(MEDIANE)} y1={sy(MOY.moins)} y2={sy(MOY.moins)} class="moy moy-moins" />
@@ -158,10 +160,14 @@
   .cle li { display: flex; align-items: center; gap: 6px; }
   .scene { position: relative; width: 100%; touch-action: pan-y; }
   svg { display: block; overflow: visible; font-family: var(--texte); }
-  .c-moins { fill: #9a9aa0; fill-opacity: .45; stroke: #6e6e73; stroke-width: .8; }
-  .c-plus { fill: var(--rouge); fill-opacity: .5; stroke: #b5142f; stroke-width: .8; }
+  .c-moins { fill: #a9a9ae; fill-opacity: .9; stroke: #fff; stroke-width: 1.2; }
+  .cle .c-moins, .cle .c-plus { stroke-width: 0; }
+  .c-plus { fill: var(--rouge); fill-opacity: .82; stroke: #fff; stroke-width: 1.2; }
+  .nuage circle { transition: opacity .15s; }
+  .nuage.estompe circle { opacity: .28; }
+  .nuage.estompe circle.actif { opacity: 1; }
   .c-vide { fill: none; stroke: #6e6e73; stroke-width: 1; }
-  .grille { stroke: var(--filet); stroke-width: 1; stroke-dasharray: 2 3; }
+  .grille { stroke: #ececec; stroke-width: 1; }
   .zero { stroke: var(--encre); stroke-width: 1; }
   .ytick { font-size: 11.5px; fill: var(--gris); text-anchor: end; font-variant-numeric: tabular-nums; }
   .xtick { font-size: 11px; fill: #9a9aa0; text-anchor: middle; }
