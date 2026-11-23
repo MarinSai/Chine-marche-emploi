@@ -1,5 +1,5 @@
 // Textes du graphique en trois langues. La langue est choisie à la compilation (VITE_LANGUE = fr, es ou it).
-// Noms de métiers des infobulles : français pour toutes les langues pour l'instant (champ 0 de data.json), anglais en champ 1.
+// Noms de métiers des infobulles : data.json champ 0 (fr), 6 (es), 7 (it) ; champ 1 = intitulé anglais d'origine.
 export const LANGUES = {
   fr: {
     titre: 'En Chine, les offres d’emploi reculent davantage dans les métiers exposés à l’IA',

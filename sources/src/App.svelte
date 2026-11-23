@@ -1,9 +1,9 @@
 <script>
-  import { T, pct, dec } from './textes.js';
+  import { T, pct, dec, LANGUE } from './textes.js';
   import brut from './data.json';
 
   // [nom fr, nom en, exposition, variation %, part des offres 2021-22 %, plus exposé ?]
-  const metiers = brut.map((d, i) => ({ i, fr: d[0], en: d[1], x: d[2], y: d[3], w: d[4], h: d[5] === 1 }))
+  const metiers = brut.map((d, i) => ({ i, fr: LANGUE === 'es' ? d[6] : LANGUE === 'it' ? d[7] : d[0], en: d[1], x: d[2], y: d[3], w: d[4], h: d[5] === 1 }))
     .sort((a, b) => b.w - a.w); // les gros cercles d'abord, les petits par-dessus
 
   const MEDIANE = 0.7025;            // entre le dernier métier « moins exposé » (0,701) et le premier « plus exposé » (0,704)
