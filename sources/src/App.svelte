@@ -44,10 +44,11 @@
   const tactile = typeof matchMedia !== 'undefined' && matchMedia('(hover: none) and (pointer: coarse)').matches;
   $: tel = largeur < 600;
   $: H = Math.round(tel ? largeur * 1.35 : largeur * 0.6);
-  $: M = { g: tel ? 34 : 40, d: tel ? 28 : 92, h: 34, b: 30 };
-  $: sx = (v) => M.g + (v - X0) / (X1 - X0) * (largeur - M.g - M.d);
+  $: M = { g: tel ? 34 : 40, d: tel ? 36 : 92, h: 34, b: 30 };
+  $: XM = tel ? 0.97 : X1;          // sur téléphone, de l'air à droite du nuage rouge
+  $: sx = (v) => M.g + (v - X0) / (XM - X0) * (largeur - M.g - M.d);
   $: sy = (v) => M.h + (Y1 - v) / (Y1 - Y0) * (H - M.h - M.b);
-  $: k = (tel ? 11 : 15);            // rayon (px) = k × √part
+  $: k = (tel ? 10 : 15);            // rayon (px) = k × √part
   $: rayon = (w) => Math.max(1.6, k * Math.sqrt(w));
   $: pts = metiers.map((m) => ({ ...m, cx: sx(m.x), cy: sy(m.y), r: rayon(m.w) }));
   $: etiq = ETIQ.filter((e) => !tel || e.m).map((e) => ({ ...e, p: pts.find((p) => p.en === e.en) })).filter((e) => e.p).map((e) => ({ ...e, ...place(e) }));
