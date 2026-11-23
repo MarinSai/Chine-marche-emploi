@@ -41,7 +41,7 @@
 
   let largeur = 640;
   // Écran tactile sans survol (téléphone, tablette) : consigne « touchez »
-  const tactile = typeof matchMedia !== 'undefined' && matchMedia('(hover: none)').matches;
+  const tactile = typeof matchMedia !== 'undefined' && matchMedia('(hover: none) and (pointer: coarse)').matches;
   $: tel = largeur < 600;
   $: H = Math.round(tel ? largeur * 1.35 : largeur * 0.6);
   $: M = { g: tel ? 34 : 40, d: tel ? 10 : 92, h: 34, b: 30 };
