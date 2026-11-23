@@ -10,7 +10,8 @@ export const LANGUES = {
     moyMoins: ['Moins exposés :', 'en moyenne'], moyPlus: ['Plus exposés :', 'en moyenne'],
     expo: 'Exposition à l’IA', offres: 'Offres', part: 'Part des offres 2021-2022',
     note: 'Métiers comptant au moins 500 offres en 2021-2022 (393), hors agents d’entretien (+52 %). Moyennes pondérées par le nombre d’offres, sur l’ensemble des 998 métiers de l’analyse. Exposition : indice de l’université de Pékin ; métiers classés de part et d’autre de la médiane.',
-    source: 'Source : analyse Bloomberg d’offres d’emploi collectées par Revelio Labs (Zhaopin, 51job, Liepin), université de Pékin · Graphique : Le Grand Continent',
+    source: 'Source : Bloomberg, Université de Pékin · Graphique : Le Grand Continent',
+    moyCle: ['Moyenne des métiers moins exposés', 'Moyenne des métiers plus exposés'],
     desc: 'Nuage de points : chaque cercle est un métier ; plus il est exposé à l’IA, plus le nombre d’offres d’emploi a reculé entre 2021-2022 et 2024-2025.',
     etiquettes: { 'Software developers': 'Développeurs|de logiciels', 'Accountants': 'Comptables', 'Web developers': 'Développeurs web', 'Real estate agents': 'Agents immobiliers', 'Sales Managers': 'Directeurs commerciaux', 'Pharmacists': 'Pharmaciens', 'Chefs': 'Chefs cuisiniers', 'Molding & casting operators': 'Mouleurs et fondeurs', 'Mechanical engineers': 'Ingénieurs mécaniciens' },
     decimale: ',', dp: '\u00a0: ', pct: (s) => s + ' %'
@@ -24,7 +25,8 @@ export const LANGUES = {
     moyMoins: ['Menos expuestos:', 'de media'], moyPlus: ['Más expuestos:', 'de media'],
     expo: 'Exposición a la IA', offres: 'Ofertas', part: 'Peso en las ofertas 2021-2022',
     note: 'Oficios con al menos 500 ofertas en 2021-2022 (393), sin el personal de limpieza (+52 %). Medias ponderadas por el número de ofertas, sobre los 998 oficios del análisis. Exposición: índice de la Universidad de Pekín; oficios clasificados a ambos lados de la mediana.',
-    source: 'Fuente: análisis de Bloomberg de ofertas de empleo recopiladas por Revelio Labs (Zhaopin, 51job, Liepin), Universidad de Pekín · Gráfico: El Grand Continent',
+    source: 'Fuente: Bloomberg, Universidad de Pekín · Gráfico: El Grand Continent',
+    moyCle: ['Media de los oficios menos expuestos', 'Media de los oficios más expuestos'],
     desc: 'Diagrama de dispersión: cada círculo es un oficio; cuanto más expuesto a la IA, más ha caído el número de ofertas entre 2021-2022 y 2024-2025.',
     etiquettes: { 'Software developers': 'Desarrolladores|de software', 'Accountants': 'Contables', 'Web developers': 'Desarrolladores web', 'Real estate agents': 'Agentes inmobiliarios', 'Sales Managers': 'Directores comerciales', 'Pharmacists': 'Farmacéuticos', 'Chefs': 'Jefes de cocina', 'Molding & casting operators': 'Moldeadores y fundidores', 'Mechanical engineers': 'Ingenieros mecánicos' },
     decimale: ',', dp: ': ', pct: (s) => s + ' %'
@@ -38,7 +40,8 @@ export const LANGUES = {
     moyMoins: ['Meno esposti:', 'in media'], moyPlus: ['Più esposti:', 'in media'],
     expo: 'Esposizione all’IA', offres: 'Offerte', part: 'Quota delle offerte 2021-2022',
     note: 'Mestieri con almeno 500 offerte nel 2021-2022 (393), esclusi gli addetti alle pulizie (+52%). Medie ponderate per il numero di offerte, sull’insieme dei 998 mestieri dell’analisi. Esposizione: indice dell’Università di Pechino; mestieri classificati rispetto alla mediana.',
-    source: 'Fonte: analisi Bloomberg di offerte di lavoro raccolte da Revelio Labs (Zhaopin, 51job, Liepin), Università di Pechino · Grafico: Il Grand Continent',
+    source: 'Fonte: Bloomberg, Università di Pechino · Grafico: Il Grand Continent',
+    moyCle: ['Media dei mestieri meno esposti', 'Media dei mestieri più esposti'],
     desc: 'Grafico a dispersione: ogni cerchio è un mestiere; più è esposto all’IA, più il numero di offerte è calato tra il 2021-2022 e il 2024-2025.',
     etiquettes: { 'Software developers': 'Sviluppatori|software', 'Accountants': 'Contabili', 'Web developers': 'Sviluppatori web', 'Real estate agents': 'Agenti immobiliari', 'Sales Managers': 'Direttori commerciali', 'Pharmacists': 'Farmacisti', 'Chefs': 'Chef', 'Molding & casting operators': 'Formatori e fonditori', 'Mechanical engineers': 'Ingegneri meccanici' },
     decimale: ',', dp: ': ', pct: (s) => s + '%'
