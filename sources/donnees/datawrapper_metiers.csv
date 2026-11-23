@@ -1,0 +1,394 @@
+metier,metier_en,exposition_ia,variation_offres_pct,part_offres_2021_22_pct,groupe
+Éleveurs,Animal Breeders,0.477,23.9,0.017,moins exposé
+Alimentateurs et déchargeurs de machines,Machine Feeders and Offbearers,0.293,15.7,0.060,moins exposé
+Ingénieurs des mines et géologues,"Mining and Geological Engineers, Including Mining Safety Engineers",0.63,8.3,0.021,moins exposé
+Commerciaux et évaluateurs solaires,Solar Sales Representatives and Assessors,0.659,7.6,0.023,moins exposé
+Mouleurs et fondeurs,Molding & casting operators,0.293,5.2,0.084,moins exposé
+Techniciens agricoles,Agricultural Technicians,0.574,0.3,0.021,moins exposé
+Réparateurs d'électroménager,Home Appliance Repairers,0.348,-4.2,0.016,moins exposé
+Manutentionnaires,"Laborers and Freight, Stock, and Material Movers, Hand",0.293,-7.1,0.062,moins exposé
+Agents de nettoyage de bâtiments,"Building Cleaning Workers, All Other",0.174,-8.3,0.146,moins exposé
+Gestionnaires de données cliniques,Clinical Data Managers,0.842,-8.6,0.042,plus exposé
+Diététiciens et nutritionnistes,Dietitians and Nutritionists,0.415,-8.9,0.023,moins exposé
+Vétérinaires,Veterinarians,0.415,-9.3,0.016,moins exposé
+Mécaniciens moto,Motorcycle Mechanics,0.425,-10.2,0.015,moins exposé
+Ingénieurs en éolien,Wind Energy Engineers,0.63,-10.4,0.044,moins exposé
+Opérateurs de machines de revêtement et de peinture,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",0.451,-10.6,0.015,moins exposé
+Opérateurs de machines de collage,Adhesive Bonding Machine Operators and Tenders,0.451,-11.5,0.040,moins exposé
+Enseignants du secondaire,"Secondary School Teachers, Except Special and Career/Technical Education",0.692,-12.2,0.118,moins exposé
+Responsables de développement éolien,Wind Energy Development Managers,0.658,-12.6,0.087,moins exposé
+Ingénieurs de production,Manufacturing Engineers,0.63,-13,0.359,moins exposé
+Exploitants et gérants agricoles,"Farmers, Ranchers, and Other Agricultural Managers",0.658,-13,0.037,moins exposé
+Assembleurs en équipe,Team Assemblers,0.324,-15.3,0.049,moins exposé
+Opérateurs de machines-outils à commande numérique,Computer Numerically Controlled Tool Operators,0.451,-16.7,0.015,moins exposé
+Responsables de production de biocarburants,Biofuels Production Managers,0.761,-16.7,0.067,plus exposé
+Assembleurs de mécanismes horlogers,Timing Device Assemblers and Adjusters,0.324,-16.8,0.068,moins exposé
+Chargés de relations patients,Patient Representatives,0.505,-17.2,0.086,moins exposé
+Enseignants du supérieur (autres),"Postsecondary Teachers, All Other",0.623,-18.3,0.037,moins exposé
+Opérateurs de séparation et de filtration,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",0.451,-19.9,0.036,moins exposé
+Ingénieurs pétroliers,Petroleum Engineers,0.63,-20.1,0.059,moins exposé
+Chefs d'équipe de production,First-Line Supervisors of Production and Operating Workers,0.664,-20.2,0.106,moins exposé
+Outilleurs et matriceurs,Tool and Die Makers,0.293,-20.4,0.016,moins exposé
+Vendeurs de pièces détachées,Parts Salespersons,0.505,-20.4,0.094,moins exposé
+Enseignants en sciences de l'éducation (supérieur),"Education Teachers, Postsecondary",0.623,-20.5,0.017,moins exposé
+Responsables de production hydroélectrique,Hydroelectric Production Managers,0.761,-20.7,0.113,plus exposé
+Ingénieurs en systèmes solaires,Solar Energy Systems Engineers,0.63,-21.2,0.197,moins exposé
+Programmeurs de machines-outils à commande numérique,Computer Numerically Controlled Tool Programmers,0.451,-21.6,0.073,moins exposé
+Tourneurs,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.293,-22,0.107,moins exposé
+Déclarants en douane,Customs Brokers,0.728,-22.3,0.333,plus exposé
+Directeurs de production industrielle,Industrial Production Managers,0.715,-23,0.602,plus exposé
+Commerciaux techniques (industrie et gros),"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",0.678,-23.1,0.813,moins exposé
+Agents de maintenance,Machinery maintenance workers,0.357,-23.3,0.165,moins exposé
+Soudeurs et braseurs,"Welders, Cutters, Solderers, and Brazers",0.293,-23.3,0.142,moins exposé
+Opérateurs de machines d'emballage,Packaging and Filling Machine Operators and Tenders,0.451,-23.3,0.080,moins exposé
+Couleurs de métaux,"Pourers and Casters, Metal",0.293,-24.4,0.016,moins exposé
+Mécaniciens automobiles,Automotive Service Technicians and Mechanics,0.413,-25,0.031,moins exposé
+Ingénieurs matériaux,Materials Engineers,0.63,-25,0.236,moins exposé
+Médecins internistes,General Internal Medicine Physicians,0.415,-25.3,0.025,moins exposé
+Spécialistes du développement durable,Sustainability Specialists,0.728,-25.7,0.014,plus exposé
+Ingénieurs en énergie,"Energy Engineers, Except Wind and Solar",0.63,-25.9,0.043,moins exposé
+Chauffeurs poids lourds,Heavy and Tractor-Trailer Truck Drivers,0.262,-26.6,0.074,moins exposé
+Employés de blanchisserie et de pressing,Laundry and Dry-Cleaning Workers,0.472,-26.6,0.017,moins exposé
+Gestionnaires de sinistres et de contrats d'assurance,Insurance Claims and Policy Processing Clerks,0.714,-26.6,0.332,plus exposé
+Ingénieurs chimistes,Chemical Engineers,0.651,-26.8,0.547,moins exposé
+Enseignants en langues étrangères (supérieur),"Foreign Language and Literature Teachers, Postsecondary",0.623,-27.3,0.018,moins exposé
+Directeurs d'hébergement,Lodging Managers,0.656,-28.2,0.071,moins exposé
+Commis de cuisine,Food Preparation Workers,0.174,-28.5,0.020,moins exposé
+Ingénieurs piles à combustible,Fuel Cell Engineers,0.63,-28.7,0.171,moins exposé
+Réparateurs de portes mécaniques,Mechanical Door Repairers,0.348,-28.8,0.052,moins exposé
+Monteurs de charpentes métalliques,Structural Metal Fabricators and Fitters,0.324,-29.3,0.027,moins exposé
+Interprètes et traducteurs,Interpreters and Translators,0.577,-30.2,0.143,moins exposé
+Ingénieurs validation,Validation Engineers,0.63,-30.4,0.169,moins exposé
+Opérateurs de teinture textile,Textile Bleaching and Dyeing Machine Operators and Tenders,0.472,-30.5,0.028,moins exposé
+Techniciens de fabrication de semi-conducteurs,Semiconductor Processing Technicians,0.451,-31.1,0.159,moins exposé
+Pharmaciens,Pharmacists,0.415,-31.7,0.119,moins exposé
+Responsables des affaires réglementaires,Regulatory Affairs Managers,0.655,-31.7,0.034,moins exposé
+Transitaires,Freight Forwarders,0.532,-31.9,0.058,moins exposé
+Réparateurs d'équipements médicaux,Medical Equipment Repairers,0.348,-32.3,0.032,moins exposé
+Directeurs de centrales biomasse,Biomass Power Plant Managers,0.767,-32.3,0.030,plus exposé
+Responsables qualité,Quality control systems managers,0.693,-32.7,1.687,moins exposé
+Guides touristiques,Tour Guides and Escorts,0.546,-32.8,0.023,moins exposé
+Souffleurs et façonneurs de verre,"Glass Blowers, Molders, Benders, and Finishers",0.451,-33,0.022,moins exposé
+Polisseurs et rectifieurs,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.293,-33.1,0.022,moins exposé
+Ingénieurs industriels,Industrial Engineers,0.683,-33.1,0.205,moins exposé
+Agents de voyages,Travel Agents,0.693,-33.2,0.023,moins exposé
+Experts en sinistres,"Claims Adjusters, Examiners, and Investigators",0.728,-33.4,0.050,plus exposé
+Opérateurs de nettoyage et de décapage industriels,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",0.451,-33.6,0.150,moins exposé
+Emballeurs,"Packers and Packagers, Hand",0.335,-33.7,0.055,moins exposé
+Ouvriers de production (autres),"Production Workers, All Other",0.451,-34,0.050,moins exposé
+Ingénieurs agroalimentaires,Food Scientists and Technologists,0.637,-34.1,0.064,moins exposé
+Scientifiques des matériaux,Materials Scientists,0.628,-34.5,0.032,moins exposé
+Ingénieurs automobiles,Automotive engineers,0.63,-34.6,0.609,moins exposé
+Souscripteurs d'assurance,Insurance Underwriters,0.807,-34.6,0.167,plus exposé
+Chefs cuisiniers,Chefs,0.224,-34.7,0.220,moins exposé
+Fabricants de pneus,Tire Builders,0.451,-34.7,0.015,moins exposé
+Ingénieurs en sécurité incendie,Fire-Prevention and Protection Engineers,0.63,-35.2,0.025,moins exposé
+Opérateurs de machines à papier,"Paper Goods Machine Setters, Operators, and Tenders",0.451,-35.3,0.054,moins exposé
+Allergologues et immunologues,Allergists and Immunologists,0.415,-35.4,0.121,moins exposé
+Conducteurs de véhicules (autres),"Motor Vehicle Operators, All Other",0.275,-35.7,0.041,moins exposé
+Mécaniciens de petits moteurs,Outdoor Power Equipment and Other Small Engine Mechanics,0.425,-35.9,0.063,moins exposé
+Frigoristes et chauffagistes,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",0.348,-36.3,0.067,moins exposé
+Manutentionnaires (autres),"Material Moving Workers, All Other",0.293,-37.2,0.048,moins exposé
+Praticiens de santé (autres),"Healthcare Diagnosing or Treating Practitioners, All Other",0.415,-37.2,0.036,moins exposé
+Modélistes textiles,Fabric and Apparel Patternmakers,0.472,-37.9,0.037,moins exposé
+Médecins hospitaliers,Hospitalists,0.415,-38,0.022,moins exposé
+Ingénieurs aérospatiaux,Aerospace Engineers,0.63,-38.1,0.047,moins exposé
+Spécialistes de l'environnement,"Environmental Scientists and Specialists, Including Health",0.628,-38.3,0.033,moins exposé
+Ingénieurs en ergonomie,Human Factors Engineers and Ergonomists,0.63,-38.5,0.052,moins exposé
+Gérants de restauration,Food Service Managers,0.575,-39.4,0.145,moins exposé
+Techniciens chimistes,Chemical Technicians,0.574,-39.5,0.052,moins exposé
+Techniciens camping-cars,Recreational Vehicle Service Technicians,0.425,-39.8,0.021,moins exposé
+Opérateurs d'extrusion et de pressage,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",0.451,-39.8,0.045,moins exposé
+Directeurs d'établissements de santé,Medical and Health Services Managers,0.704,-40,0.167,plus exposé
+Réceptionnistes d'hôtel,"Hotel, Motel, and Resort Desk Clerks",0.714,-40,0.055,plus exposé
+Chercheurs en informatique,Computer and Information Research Scientists,0.81,-40.4,0.425,plus exposé
+Réparateurs d'instruments de précision,"Precision Instrument and Equipment Repairers, All Other",0.348,-40.5,0.134,moins exposé
+Aides-bibliothécaires,"Library Assistants, Clerical",0.714,-40.5,0.025,plus exposé
+Acheteurs (gros et détail),"Wholesale and Retail Buyers, Except Farm Products",0.728,-40.5,0.111,plus exposé
+Serveurs,Waiters and Waitresses,0.283,-40.7,0.119,moins exposé
+Directeurs des programmes (médias),Media Programming Directors,0.448,-40.7,0.046,moins exposé
+Contrôleurs et trieurs,"Inspectors, Testers, Sorters, Samplers, and Weighers",0.451,-41.3,0.465,moins exposé
+Éducateurs pour la santé,Health Education Specialists,0.603,-41.4,0.026,moins exposé
+Éclairagistes,Lighting Technicians,0.484,-41.6,0.060,moins exposé
+Techniciens agroalimentaires,Food Science Technicians,0.574,-41.8,0.030,moins exposé
+Assistants d'enseignement,"Teaching Assistants, All Other",0.786,-41.8,0.016,plus exposé
+Enseignants en ingénierie (supérieur),"Engineering Teachers, Postsecondary",0.623,-41.9,0.017,moins exposé
+Analystes contrôle qualité,Quality Control Analysts,0.561,-42,0.166,moins exposé
+Traceurs (métal et plastique),"Layout Workers, Metal and Plastic",0.293,-42.3,0.026,moins exposé
+Potiers industriels,"Potters, Manufacturing",0.451,-42.3,0.077,moins exposé
+Conseillers d'orientation,"Educational, Guidance, and Career Counselors and Advisors",0.603,-42.3,0.169,moins exposé
+Directeurs des achats,Purchasing Managers,0.795,-42.5,1.243,plus exposé
+Électriciens,Electricians,0.216,-42.7,0.095,moins exposé
+Services à la personne (autres),"Personal Care and Service Workers, All Other",0.423,-42.8,0.019,moins exposé
+Plombiers et tuyauteurs,"Plumbers, Pipefitters, and Steamfitters",0.22,-43.2,0.039,moins exposé
+Responsables des services généraux,Facilities Managers,0.771,-43.2,0.080,plus exposé
+Magasiniers et employés de réception,"Shipping, Receiving, and Inventory Clerks",0.532,-43.3,0.515,moins exposé
+Ingénieurs électriciens,Electrical Engineers,0.636,-43.3,0.786,moins exposé
+Responsables d'exploitation éolienne,Wind Energy Operations Managers,0.658,-43.3,0.023,moins exposé
+Spécialistes des ressources en eau,Water Resource Specialists,0.659,-43.4,0.029,moins exposé
+Agents d'assurance,Insurance Sales Agents,0.717,-43.6,0.263,plus exposé
+Bijoutiers,Jewelers and Precious Stone and Metal Workers,0.451,-43.7,0.021,moins exposé
+Charpentiers,Carpenters,0.22,-43.8,0.050,moins exposé
+Ingénieurs civils,Civil Engineers,0.633,-44.1,0.680,moins exposé
+Chauffeurs de taxi,Taxi Drivers,0.275,-44.3,0.058,moins exposé
+Aides de production,Helpers--Production Workers,0.451,-44.3,0.023,moins exposé
+Maquettistes (métal et plastique),"Model Makers, Metal and Plastic",0.293,-44.4,0.017,moins exposé
+Ingénieurs en nanosystèmes,Nanosystems Engineers,0.63,-44.6,0.114,moins exposé
+Chefs d'établissement scolaire,"Education Administrators, Kindergarten through Secondary",0.655,-44.7,0.026,moins exposé
+Techniciens en géothermie,Geothermal Technicians,0.348,-44.8,0.040,moins exposé
+Infirmiers cliniciens spécialisés,Clinical Nurse Specialists,0.415,-44.8,0.032,moins exposé
+Ingénieurs en mécatronique,Mechatronics Engineers,0.63,-45,0.276,moins exposé
+Responsables de développement de biocarburants,Biofuels/Biodiesel Technology and Product Development Managers,0.66,-45,0.078,moins exposé
+Coordinateurs de recherche clinique,Clinical Research Coordinators,0.675,-45,0.130,moins exposé
+Monteurs en charpente métallique,Structural Iron and Steel Workers,0.22,-45.1,0.030,moins exposé
+Chefs d'équipe en restauration,First-Line Supervisors of Food Preparation and Serving Workers,0.271,-45.2,0.015,moins exposé
+Installateurs et réparateurs de vannes,"Control and Valve Installers and Repairers, Except Mechanical Door",0.348,-45.2,0.034,moins exposé
+Cuisiniers (autres),"Cooks, All Other",0.174,-45.3,0.043,moins exposé
+Techniciens hygiène et sécurité,Occupational Health and Safety Technicians,0.572,-45.3,0.133,moins exposé
+Ingénieurs commerciaux,Sales Engineers,0.698,-45.3,1.368,moins exposé
+Enseignants de maternelle,"Kindergarten Teachers, Except Special Education",0.622,-45.5,0.119,moins exposé
+Spécialistes hygiène et sécurité,Occupational Health and Safety Specialists,0.572,-45.7,0.071,moins exposé
+Ingénieurs hygiène et sécurité,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",0.63,-45.8,0.227,moins exposé
+Directeurs commerciaux,Sales Managers,0.725,-46,4.033,plus exposé
+Ouvriers du textile et de l'ameublement,"Textile, Apparel, and Furnishings Workers, All Other",0.472,-46.1,0.083,moins exposé
+Politologues,Political Scientists,0.739,-46.2,0.022,plus exposé
+Spécialistes financiers (autres),"Financial Specialists, All Other",0.807,-46.2,0.035,plus exposé
+Employés de comptoir et de location,Counter and Rental Clerks,0.505,-46.5,0.125,moins exposé
+Ingénieurs en photonique,Photonics Engineers,0.63,-46.5,0.291,moins exposé
+Enquêteurs et analystes antifraude,"Fraud Examiners, Investigators and Analysts",0.807,-46.6,0.024,plus exposé
+Agents de sécurité,Security guards,0.33,-47.1,0.227,moins exposé
+Gestionnaires immobiliers,"Property, Real Estate, and Community Association Managers",0.691,-47.1,0.346,moins exposé
+Réparateurs de moteurs électriques et d'outillage,"Electric Motor, Power Tool, and Related Repairers",0.536,-47.2,0.352,moins exposé
+Responsables de la chaîne d'approvisionnement,Supply Chain Managers,0.773,-47.3,0.690,plus exposé
+Employés de mise en rayon et préparateurs de commandes,Stockers and Order Fillers,0.293,-47.4,0.143,moins exposé
+Chefs d'équipe commerciaux (hors détail),First-Line Supervisors of Non-Retail Sales Workers,0.66,-47.5,0.019,moins exposé
+Agents d'entretien et de réparation,"Maintenance and Repair Workers, General",0.281,-47.8,0.131,moins exposé
+Ingénieurs mécaniciens,Mechanical engineers,0.586,-48.3,1.382,moins exposé
+Techniciens de santé (autres),"Health Technologists and Technicians, All Other",0.505,-48.4,0.062,moins exposé
+Caissiers,Cashiers,0.517,-48.4,0.410,moins exposé
+Tailleurs de pierre,Stonemasons,0.22,-48.5,0.031,moins exposé
+Enseignants en gestion (supérieur),"Business Teachers, Postsecondary",0.623,-48.7,0.017,moins exposé
+Vendeurs en magasin,Retail Salespersons,0.503,-48.9,0.836,moins exposé
+Commerciaux en produits financiers,"Securities, Commodities, and Financial Services Sales Agents",0.674,-49,0.183,moins exposé
+Conseillers en gestion de patrimoine,Personal Financial Advisors,0.695,-49,0.168,moins exposé
+Administrateurs d'universités,"Education Administrators, Postsecondary",0.701,-49,0.138,moins exposé
+Data scientists,Data Scientists,0.842,-49,0.239,plus exposé
+Mécaniciens de machines industrielles,Industrial Machinery Mechanics,0.326,-49.2,0.223,moins exposé
+Chefs de rayon,First-Line Supervisors of Retail Sales Workers,0.66,-49.3,0.713,moins exposé
+Employés aux archives,File Clerks,0.775,-49.5,0.063,plus exposé
+Réparateurs d'équipements électroniques industriels,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",0.536,-49.8,0.019,moins exposé
+Biochimistes et biophysiciens,Biochemists and Biophysicists,0.637,-49.8,0.070,moins exposé
+Ingénieurs (autres),"Engineers, All Other",0.63,-49.9,2.082,moins exposé
+Ingénieurs de l'eau et de l'assainissement,Water/Wastewater Engineers,0.63,-50.2,0.095,moins exposé
+Analystes en recherche opérationnelle,Operations Research Analysts,0.833,-50.3,0.015,plus exposé
+Ingénieurs électroniciens,"Electronics Engineers, Except Computer",0.63,-50.4,0.949,moins exposé
+Aides-réparateurs,"Helpers--Installation, Maintenance, and Repair Workers",0.348,-50.5,0.053,moins exposé
+Professionnels des médias (autres),"Media and Communication Workers, All Other",0.719,-50.6,0.061,plus exposé
+Gérants de fonds,Investment Fund Managers,0.779,-50.8,0.681,plus exposé
+Animateurs commerciaux,Demonstrators and Product Promoters,0.629,-50.9,0.292,moins exposé
+Cadres dirigeants (autres),"Managers, All Other",0.654,-50.9,1.011,moins exposé
+Inspecteurs de la conformité environnementale,Environmental Compliance Inspectors,0.728,-51,0.061,plus exposé
+Éditeurs,Editors,0.828,-51.1,0.082,plus exposé
+Ingénieurs logistique,Logistics Engineers,0.728,-51.3,0.223,plus exposé
+Ingénieurs en matériel informatique,Computer Hardware Engineers,0.63,-51.4,0.096,moins exposé
+Responsables conformité,Compliance Managers,0.665,-51.4,0.091,moins exposé
+Employés de planification de la production,"Production, Planning, and Expediting Clerks",0.532,-51.7,0.293,moins exposé
+Chefs de projet,Project Management Specialists,0.788,-51.7,1.217,plus exposé
+Enseignants en informatique (supérieur),"Computer Science Teachers, Postsecondary",0.623,-51.9,0.047,moins exposé
+Trésoriers et contrôleurs de gestion,Treasurers and Controllers,0.775,-51.9,1.971,plus exposé
+Ingénieurs en robotique,Robotics Engineers,0.63,-52,0.182,moins exposé
+Directeurs logistique et transport,"Transportation, Storage, and Distribution Managers",0.771,-52,0.776,plus exposé
+Commissaires-priseurs et évaluateurs,Appraisers of Personal and Business Property,0.807,-52.1,0.032,plus exposé
+Ingénieurs en environnement,Environmental Engineers,0.7,-52.2,0.091,moins exposé
+Commerciaux (autres),"Sales and Related Workers, All Other",0.629,-52.3,0.256,moins exposé
+Analystes quantitatifs,Financial Quantitative Analysts,0.807,-52.3,0.045,plus exposé
+Chercheurs en médecine,"Medical Scientists, Except Epidemiologists",0.678,-52.4,0.022,moins exposé
+Spécialistes de la gestion de la sécurité,Security Management Specialists,0.728,-52.4,0.099,plus exposé
+Directeurs du développement durable,Chief Sustainability Officers,0.746,-52.4,0.045,plus exposé
+Trieurs de produits agricoles,"Graders and Sorters, Agricultural Products",0.477,-52.6,0.042,moins exposé
+Réparateurs de matériel de bureau et de DAB,"Computer, Automated Teller, and Office Machine Repairers",0.536,-52.7,0.310,moins exposé
+Secrétaires juridiques,Legal Secretaries and Administrative Assistants,0.725,-52.7,0.044,plus exposé
+Épidémiologistes,Epidemiologists,0.637,-52.8,0.019,moins exposé
+Chargés d'études de marché et marketing,Market Research Analysts and Marketing Specialists,0.809,-52.9,0.271,plus exposé
+Chargés de relations publiques,Public Relations Specialists,0.821,-52.9,0.211,plus exposé
+Baristas,Baristas,0.285,-53,0.037,moins exposé
+Chauffeurs-livreurs (véhicules légers),Light Truck Drivers,0.275,-53.1,0.309,moins exposé
+Chimistes,Chemists,0.628,-53.1,0.185,moins exposé
+Infirmiers,Registered Nurses,0.384,-53.2,0.053,moins exposé
+Responsables de la gestion des crises,Emergency Management Directors,0.657,-53.4,0.041,moins exposé
+Ingénieurs en microsystèmes,Microsystems Engineers,0.63,-53.5,0.933,moins exposé
+Ingénieurs biomédicaux,Bioengineers and Biomedical Engineers,0.63,-54.2,0.081,moins exposé
+Employés de bureau,"Office Clerks, General",0.699,-54.2,0.168,moins exposé
+Employés de saisie des commandes,Order Clerks,0.714,-54.2,0.140,plus exposé
+Directeurs techniques (médias),Media Technical Directors/Managers,0.448,-54.3,0.168,moins exposé
+DJ,"Disc Jockeys, Except Radio",0.448,-54.3,0.060,moins exposé
+Techniciens en cytogénétique,Cytogenetic Technologists,0.505,-54.5,0.018,moins exposé
+Coordinateurs pédagogiques,Instructional Coordinators,0.786,-54.5,0.075,plus exposé
+Assistants sociaux,Social and Human Service Assistants,0.603,-54.7,0.028,moins exposé
+Préparateurs de déclarations fiscales,Tax Preparers,0.807,-54.7,0.167,plus exposé
+Techniciens de laboratoire en biologie,Biological Technicians,0.623,-54.8,0.220,moins exposé
+Directeurs des relations publiques,Public Relations Managers,0.755,-54.8,0.047,plus exposé
+Employés de facturation,Billing and Posting Clerks,0.792,-54.8,0.155,plus exposé
+Responsables sécurité,Security Managers,0.771,-54.9,0.123,plus exposé
+Commerçants en ligne,Online Merchants,0.728,-55,0.651,plus exposé
+Analystes logistiques,Logistics Analysts,0.728,-55.2,0.598,plus exposé
+"Commerciaux (industrie et gros, hors technique)","Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",0.657,-55.3,3.186,moins exposé
+Employés à l'ouverture de comptes,New Accounts Clerks,0.714,-55.4,0.095,plus exposé
+Responsables marketing,Marketing managers,0.813,-55.5,3.613,plus exposé
+Surveillants d'internat,Residential Advisors,0.423,-55.7,0.032,moins exposé
+Directeurs généraux et des opérations,General and Operations Managers,0.74,-55.7,1.064,plus exposé
+Guichetiers de banque,Tellers,0.755,-55.7,0.160,plus exposé
+Techniciens du son,Sound Engineering Technicians,0.484,-55.9,0.054,moins exposé
+Collecteurs de fonds,Fundraisers,0.728,-55.9,0.022,plus exposé
+Élus,Legislators,0.746,-55.9,0.053,plus exposé
+Maquilleurs de spectacle,"Makeup Artists, Theatrical and Performance",0.435,-56.1,0.020,moins exposé
+Techniciens audiovisuels,Audio and Video Technicians,0.484,-56.3,0.016,moins exposé
+Réceptionnistes et agents d'accueil,Receptionists and Information Clerks,0.532,-56.3,0.180,moins exposé
+Rédacteurs techniques,Technical Writers,0.719,-56.3,0.035,plus exposé
+Conducteurs de travaux,Construction Managers,0.633,-56.4,0.238,moins exposé
+Chargés de conformité,Compliance Officers,0.728,-56.4,0.064,plus exposé
+Logisticiens,Logisticians,0.633,-56.6,0.118,moins exposé
+Biologistes moléculaires et cellulaires,Molecular and Cellular Biologists,0.637,-56.7,0.112,moins exposé
+Agents de fret,Cargo and Freight Agents,0.532,-57,0.039,moins exposé
+Administrateurs de l'éducation (autres),"Education Administrators, All Other",0.659,-57,0.016,moins exposé
+Acheteurs,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",0.73,-57,0.178,plus exposé
+Enseignants en santé (supérieur),"Health Specialties Teachers, Postsecondary",0.623,-57.1,0.055,moins exposé
+Programmeurs informatiques,Computer Programmers,0.81,-57.1,0.040,plus exposé
+Microbiologistes,Microbiologists,0.637,-57.3,0.024,moins exposé
+Consultants en management,Management Analysts,0.676,-57.3,0.122,moins exposé
+Secrétaires médicales,Medical Secretaries and Administrative Assistants,0.725,-57.3,0.029,plus exposé
+Directeurs de crèches et d'écoles maternelles,"Education and Childcare Administrators, Preschool and Daycare",0.655,-57.5,0.017,moins exposé
+Responsables de services à la personne,"Personal Service Managers, All Other",0.656,-57.5,0.314,moins exposé
+Géomètres,Surveyors,0.589,-57.6,0.063,moins exposé
+Chargés de ressources humaines,Human Resources Specialists,0.654,-57.6,1.668,moins exposé
+Administrateurs web,Web Administrators,0.81,-57.7,0.024,plus exposé
+Journalistes,"News Analysts, Reporters, and Journalists",0.719,-57.8,0.040,plus exposé
+Inspecteurs financiers,Financial Examiners,0.807,-57.8,0.030,plus exposé
+Chargés d'affaires réglementaires,Regulatory Affairs Specialists,0.728,-57.9,0.085,plus exposé
+Étalagistes,Merchandise Displayers and Window Trimmers,0.749,-57.9,0.114,plus exposé
+Guides naturalistes,Park Naturalists,0.637,-58,0.015,moins exposé
+Stylistes de mode,Fashion Designers,0.749,-58,0.123,plus exposé
+Spécialistes de la gestion documentaire,Document Management Specialists,0.81,-58.1,0.083,plus exposé
+Spécialistes des opérations (autres),"Business Operations Specialists, All Other",0.793,-58.2,0.512,plus exposé
+Analystes des politiques climatiques,Climate Change Policy Analysts,0.628,-58.3,0.041,moins exposé
+Répartiteurs,"Dispatchers, Except Police, Fire, and Ambulance",0.532,-58.4,0.069,moins exposé
+Directeurs des systèmes d'information,Computer and Information Systems Managers,0.839,-58.4,0.237,plus exposé
+Monteurs vidéo,Film and Video Editors,0.547,-58.5,0.406,moins exposé
+Assistants de recherche en sciences sociales,Social Science Research Assistants,0.574,-58.5,0.259,moins exposé
+Employés de courtage,Brokerage Clerks,0.714,-58.5,0.085,plus exposé
+Animateurs radio et télé,Broadcast Announcers and Radio Disc Jockeys,0.54,-58.6,0.067,moins exposé
+Conseillers (autres),"Counselors, All Other",0.603,-58.7,0.018,moins exposé
+Scénographes,Set and Exhibit Designers,0.749,-58.7,0.033,plus exposé
+Peintres en bâtiment,"Painters, Construction and Maintenance",0.22,-58.8,0.022,moins exposé
+Économistes,Economists,0.739,-58.8,0.015,plus exposé
+Ingénieurs transports,Transportation Engineers,0.63,-59,0.044,moins exposé
+Infirmiers de réanimation,Critical Care Nurses,0.415,-59.2,0.033,moins exposé
+Responsables administratifs,Administrative Services Managers,0.711,-59.2,0.355,plus exposé
+Spécialistes de la rémunération,"Compensation, Benefits, and Job Analysis Specialists",0.728,-59.3,0.194,plus exposé
+Avocats,Lawyers,0.759,-59.3,0.411,plus exposé
+Barmans,Bartenders,0.285,-59.4,0.015,moins exposé
+Maquettistes PAO,Desktop Publishers,0.714,-59.4,0.076,plus exposé
+Chargés de crédit,Loan Officers,0.761,-59.4,0.056,plus exposé
+Urbanistes des transports,Transportation Planners,0.739,-59.5,0.017,plus exposé
+Comptables,Accountants,0.847,-59.5,1.514,plus exposé
+Dirigeants d'entreprise,Chief Executives,0.732,-59.6,0.787,plus exposé
+Analystes crédit,Credit Analysts,0.807,-59.6,0.077,plus exposé
+Directeurs scientifiques,Natural Sciences Managers,0.655,-59.7,0.059,moins exposé
+Commerciaux en publicité,Advertising Sales Agents,0.693,-59.8,0.318,moins exposé
+Médecins de santé publique,Preventive Medicine Physicians,0.415,-59.9,0.027,moins exposé
+Scientifiques du vivant (autres),"Life Scientists, All Other",0.637,-59.9,0.111,moins exposé
+Organisateurs d'événements,"Meeting, Convention, and Event Planners",0.728,-60,0.246,plus exposé
+Aides-comptables,"Bookkeeping, Accounting, and Auditing Clerks",0.815,-60,0.037,plus exposé
+Analystes financiers,Financial and Investment Analysts,0.822,-60,0.205,plus exposé
+Chauffeurs-vendeurs,Driver/Sales Workers,0.295,-60.1,0.158,moins exposé
+Ouvriers agricoles (autres),"Agricultural Workers, All Other",0.477,-60.1,0.017,moins exposé
+Spécialistes des risques financiers,Financial Risk Specialists,0.807,-60.2,0.213,plus exposé
+Juristes assistants,Paralegals,0.727,-60.3,0.241,plus exposé
+Directeurs financiers,Financial Managers,0.84,-60.3,0.096,plus exposé
+Responsables de services sociaux,Social and Community Service Managers,0.666,-60.7,0.272,moins exposé
+Artistes et professionnels du sport (autres),"Entertainers and Performers, Sports and Related Workers, All Other",0.448,-61.1,0.023,moins exposé
+Économistes de la construction,Cost Estimators,0.807,-61.1,0.204,plus exposé
+Responsables publicité et promotion,Advertising and Promotions Managers,0.849,-61.3,0.920,plus exposé
+Biologistes (autres),"Biological Scientists, All Other",0.637,-61.4,0.200,moins exposé
+Chefs de projet informatique,Information Technology Project Managers,0.81,-61.5,1.204,plus exposé
+Spécialistes RFID,Radio Frequency Identification Device Specialists,0.63,-61.6,0.229,moins exposé
+Chargés d'enquêtes statistiques,Survey Researchers,0.739,-61.6,0.019,plus exposé
+Responsables de collecte de fonds,Fundraising Managers,0.76,-61.6,0.045,plus exposé
+Enseignants en physique (supérieur),"Physics Teachers, Postsecondary",0.623,-61.7,0.125,moins exposé
+Gestionnaires de dossiers médicaux,Medical Records Specialists,0.505,-61.8,0.034,moins exposé
+Employés de contrôle du crédit,"Credit Authorizers, Checkers, and Clerks",0.714,-61.9,0.070,plus exposé
+Designers (autres),"Designers, All Other",0.749,-61.9,0.353,plus exposé
+Commerciaux en services,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",0.697,-62.2,0.403,moins exposé
+Directeurs des ressources humaines,Human Resources Managers,0.722,-62.5,2.309,plus exposé
+Ingénieurs télécoms,Telecommunications Engineering Specialists,0.81,-62.7,0.126,plus exposé
+Agents de recouvrement,Bill and Account Collectors,0.792,-62.8,0.066,plus exposé
+Statisticiens,Statisticians,0.842,-62.8,0.110,plus exposé
+Testeurs et analystes qualité logiciel,Software Quality Assurance Analysts and Testers,0.835,-62.9,1.006,plus exposé
+Architectes systèmes,Computer Systems Engineers/Architects,0.81,-63,0.874,plus exposé
+Coachs sportifs,Exercise Trainers and Group Fitness Instructors,0.423,-63.2,0.021,moins exposé
+Employés de restauration rapide,Fast Food and Counter Workers,0.285,-63.3,0.401,moins exposé
+Coiffeurs,"Hairdressers, Hairstylists, and Cosmetologists",0.435,-63.4,0.127,moins exposé
+Employés aux achats,Procurement Clerks,0.792,-63.5,0.285,plus exposé
+Designers industriels,Commercial and Industrial Designers,0.749,-63.7,0.260,plus exposé
+Fleuristes,Floral Designers,0.749,-63.7,0.034,plus exposé
+Techniciens d'assistance informatique,Computer User Support Specialists,0.724,-64.1,0.648,plus exposé
+Responsables de la formation,Training and Development Managers,0.773,-64.2,0.288,plus exposé
+Spécialistes des relations sociales,Labor Relations Specialists,0.728,-64.3,0.084,plus exposé
+Opérateurs de machines de bureau,"Office Machine Operators, Except Computer",0.714,-64.4,0.227,plus exposé
+Service client,Customer service,0.75,-64.6,1.586,plus exposé
+Analystes budgétaires,Budget Analysts,0.807,-64.8,0.237,plus exposé
+Ingénieurs en sécurité informatique,Information Security Engineers,0.81,-64.8,0.181,plus exposé
+Spécialistes du référencement payant,Search Marketing Strategists,0.728,-64.9,0.267,plus exposé
+Analystes en informatique décisionnelle,Business Intelligence Analysts,0.842,-64.9,0.623,plus exposé
+Architectes d'intérieur,Interior Designers,0.649,-65,0.144,moins exposé
+Chargés de formation,Training and Development Specialists,0.724,-65.1,0.409,plus exposé
+Employés administratifs (autres),"Information and Record Clerks, All Other",0.714,-65.2,0.029,plus exposé
+Installateurs de bâtiments préfabriqués,Manufactured Building and Mobile Home Installers,0.348,-65.4,0.047,moins exposé
+Urbanistes,Urban and Regional Planners,0.739,-65.4,0.072,plus exposé
+Enseignants du préscolaire,"Preschool Teachers, Except Special Education",0.54,-65.8,0.023,moins exposé
+Administrateurs systèmes et réseaux,Network and Computer Systems Administrators,0.754,-65.9,0.104,plus exposé
+Artistes plasticiens et illustrateurs,"Fine Artists, Including Painters, Sculptors, and Illustrators",0.749,-66,0.033,plus exposé
+Enseignants en arts (supérieur),"Art, Drama, and Music Teachers, Postsecondary",0.623,-66.2,0.050,moins exposé
+Généticiens,Geneticists,0.637,-66.2,0.015,moins exposé
+Analystes systèmes,Computer Systems Analysts,0.81,-66.2,0.100,plus exposé
+Directeurs de l'ingénierie et de l'architecture,Architectural and Engineering Managers,0.654,-67.1,0.095,moins exposé
+Artisans d'art,Craft Artists,0.749,-67.2,0.015,plus exposé
+Employés de soutien administratif (autres),"Office and Administrative Support Workers, All Other",0.761,-67.3,0.422,plus exposé
+Analystes en sécurité informatique,Information Security Analysts,0.81,-67.5,0.088,plus exposé
+Producteurs et réalisateurs,Producers and Directors,0.448,-67.6,0.048,moins exposé
+Architectes,"Architects, Except Landscape and Naval",0.589,-67.8,0.164,moins exposé
+Gestionnaires de paie,Payroll and Timekeeping Clerks,0.792,-67.9,0.220,plus exposé
+Spécialistes des entrepôts de données,Data Warehousing Specialists,0.81,-68.2,0.320,plus exposé
+Graphistes,Graphic designers,0.797,-68.3,0.456,plus exposé
+Concierges,Concierges,0.437,-68.4,0.242,moins exposé
+Assistants RH,"Human Resources Assistants, Except Payroll and Timekeeping",0.714,-68.5,0.060,plus exposé
+Entraîneurs et recruteurs sportifs,Coaches and Scouts,0.448,-68.8,0.028,moins exposé
+Assistants sociaux hospitaliers,Healthcare Social Workers,0.603,-68.8,0.017,moins exposé
+Employés de comptabilité (autres),"Financial Clerks, All Other",0.792,-68.8,0.431,plus exposé
+Directeurs artistiques,Art Directors,0.749,-69,0.253,plus exposé
+Assistants de direction,Assistants,0.725,-69.4,1.242,plus exposé
+Esthéticiennes,Skincare Specialists,0.435,-69.5,0.039,moins exposé
+Coursiers,Couriers and Messengers,0.34,-69.8,0.107,moins exposé
+Enseignants en communication (supérieur),"Communications Teachers, Postsecondary",0.623,-69.9,0.023,moins exposé
+Responsables de la rémunération,Compensation and Benefits Managers,0.776,-70,0.108,plus exposé
+Opérateurs de saisie,Data Entry Keyers,0.764,-70.4,0.138,plus exposé
+Développeurs de logiciels,Software developers,0.844,-70.8,3.554,plus exposé
+Ingénieurs blockchain,Blockchain Engineers,0.81,-71,0.146,plus exposé
+Administrateurs de bases de données,Database Administrators,0.81,-71,0.068,plus exposé
+Architectes réseaux,Computer Network Architects,0.81,-71.2,0.226,plus exposé
+Testeurs d'intrusion,Penetration Testers,0.81,-71.3,0.048,plus exposé
+Rédacteurs,Writers,0.719,-71.6,0.518,plus exposé
+Designers d'interfaces web,Web and Digital Interface Designers,0.81,-72.5,0.459,plus exposé
+Architectes de bases de données,Database Architects,0.909,-72.5,0.416,plus exposé
+Techniciens réseaux,Computer Network Support Specialists,0.81,-72.8,0.226,plus exposé
+Photographes,Photographers,0.484,-73,0.074,moins exposé
+Correcteurs,Proofreaders and Copy Markers,0.714,-73.9,0.028,plus exposé
+Paysagistes,Landscape Architects,0.589,-74.9,0.051,moins exposé
+Courtiers immobiliers,Real Estate Brokers,0.627,-75.3,0.221,moins exposé
+Bio-informaticiens,Bioinformatics Scientists,0.637,-76.5,0.028,moins exposé
+Directeurs de casinos,Gambling Managers,0.657,-76.9,0.022,moins exposé
+Techniciens SIG,Geographic Information Systems Technologists and Technicians,0.81,-77.2,0.039,plus exposé
+Concepteurs de jeux vidéo,Video Game Designers,0.81,-77.4,0.100,plus exposé
+Développeurs web,Web developers,0.827,-78.8,0.897,plus exposé
+Agents immobiliers,Real estate agents,0.572,-82.1,0.321,moins exposé
+Animateurs et artistes d'effets spéciaux,Animators & VFX artists,0.682,-83.4,0.148,moins exposé
