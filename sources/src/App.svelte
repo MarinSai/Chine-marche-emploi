@@ -44,7 +44,7 @@
   const tactile = typeof matchMedia !== 'undefined' && matchMedia('(hover: none) and (pointer: coarse)').matches;
   $: tel = largeur < 600;
   $: H = Math.round(tel ? largeur * 1.35 : largeur * 0.6);
-  $: M = { g: tel ? 34 : 40, d: tel ? 10 : 92, h: 34, b: 30 };
+  $: M = { g: tel ? 34 : 40, d: tel ? 28 : 92, h: 34, b: 30 };
   $: sx = (v) => M.g + (v - X0) / (X1 - X0) * (largeur - M.g - M.d);
   $: sy = (v) => M.h + (Y1 - v) / (Y1 - Y0) * (H - M.h - M.b);
   $: k = (tel ? 11 : 15);            // rayon (px) = k × √part
@@ -105,7 +105,7 @@
       <text class="axe-titre" x={M.g - 30 < 0 ? 0 : 0} y={12}>{T.axeY}</text>
       {#each GRILLE as g}
         <line x1={M.g} x2={largeur - M.d} y1={sy(g)} y2={sy(g)} class={g === 0 ? 'zero' : 'grille'} />
-        <text class="ytick" x={M.g - 6} y={sy(g) + 4}>{g === 0 ? '0' : pct(g)}</text>
+        <text class="ytick" x={M.g - 6} y={sy(g) + 4}>{#if g > 0}<tspan class="signe">+</tspan>{pct(g).slice(1)}{:else}{g === 0 ? '0' : pct(g)}{/if}</text>
       {/each}
       <!-- Axe horizontal -->
       {#each TICKS as t}
@@ -173,7 +173,8 @@
   .c-vide { fill: none; stroke: #6e6e73; stroke-width: 1; }
   .grille { stroke: #ececec; stroke-width: 1; }
   .zero { stroke: var(--encre); stroke-width: 1; }
-  .ytick { font-size: 11.5px; fill: var(--gris); text-anchor: end; font-variant-numeric: tabular-nums; }
+  .ytick { font-size: 11.5px; fill: var(--gris); text-anchor: end; }
+  .ytick .signe { font-family: "Helvetica Neue", Arial, sans-serif; }
   .xtick { font-size: 11px; fill: #9a9aa0; text-anchor: middle; }
   .axe-titre { font-size: 12px; fill: var(--gris); font-weight: 500; }
   .sens { font-size: 12.5px; font-weight: 600; }
