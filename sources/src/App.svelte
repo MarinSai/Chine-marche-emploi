@@ -40,6 +40,8 @@
   }
 
   let largeur = 640;
+  // Écran tactile sans survol (téléphone, tablette) : consigne « touchez »
+  const tactile = typeof matchMedia !== 'undefined' && matchMedia('(hover: none)').matches;
   $: tel = largeur < 600;
   $: H = Math.round(tel ? largeur * 1.35 : largeur * 0.6);
   $: M = { g: tel ? 34 : 40, d: tel ? 10 : 92, h: 34, b: 30 };
@@ -87,6 +89,7 @@
 <figure class="bloc">
   <h1>{T.titre}</h1>
   <p class="chapo">{T.chapo}</p>
+  <p class="aide">{tactile ? T.aide[1] : T.aide[0]}</p>
   <ul class="cle">
     <li><svg width="14" height="14"><circle cx="7" cy="7" r="6" class="c-moins" /></svg>{T.cle[0]}</li>
     <li><svg width="14" height="14"><circle cx="7" cy="7" r="6" class="c-plus" /></svg>{T.cle[1]}</li>
@@ -156,6 +159,7 @@
   .bloc { padding: 14px var(--marge) 10px; max-width: 1100px; }
   h1 { font-family: var(--titre); font-weight: 700; font-size: clamp(21px, 3.2vw, 28px); line-height: 1.15; text-wrap: balance; margin-bottom: 6px; }
   .chapo { color: var(--gris); font-size: 15px; line-height: 1.4; margin-bottom: 10px; max-width: 760px; }
+  .aide { font-size: 12.5px; color: var(--gris); font-style: italic; margin: -4px 0 10px; }
   .cle { list-style: none; display: flex; flex-wrap: wrap; gap: 4px 18px; font-size: 12.5px; color: var(--encre); margin-bottom: 8px; }
   .cle li { display: flex; align-items: center; gap: 6px; }
   .scene { position: relative; width: 100%; touch-action: pan-y; }
