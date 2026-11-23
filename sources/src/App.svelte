@@ -31,8 +31,9 @@
       return { x: xl, y: yt + 4 - (n - 1) * 7, a: 'start', trait: [xa, yt, xl - 4, yt] };
     }
     if (g === 'bas') {
-      const y = sy(-85), xl = largeur - M.d;
-      return { x: xl, y, a: 'end', trait: [e.p.cx + r * 0.7, e.p.cy + r * 0.7, xl - 30, y - 12] };
+      // Filet coudé : part du bas-droit de la bulle (60°), file à droite puis descend vers l'étiquette
+      const y = sy(-86), xl = largeur - M.d, x0 = e.p.cx + r * 0.5, y0 = e.p.cy + r * 0.87, xc = xl - 6;
+      return { x: xl, y, a: 'end', coude: [x0, y0, xc, y0, xc, y - 13] };
     }
     if (g === 'b') return { x: e.p.cx, y: e.p.cy + r + 13, a: 'middle' };
     if (g === 't') return { x: e.p.cx, y: e.p.cy - r - 5, a: 'middle' };
@@ -134,6 +135,7 @@
       {#each etiq as e}
         <circle cx={e.p.cx} cy={e.p.cy} r={e.p.r} class="cerne" />
         {#if e.trait}<line x1={e.trait[0]} y1={e.trait[1]} x2={e.trait[2]} y2={e.trait[3]} class="trait" />{/if}
+        {#if e.coude}<polyline points={e.coude.join(' ')} class="trait" fill="none" /><circle cx={e.coude[0]} cy={e.coude[1]} r="1.8" class="point" />{/if}
         <text class="etiq" x={e.x} y={e.y} text-anchor={e.a}>{#each (e.ligne1 ? [T.etiquettes[e.en].replace('|', ' ')] : T.etiquettes[e.en].split('|')) as l, j}<tspan x={e.x} dy={j ? 14 : 0}>{l}</tspan>{/each}</text>
       {/each}
 
@@ -193,6 +195,7 @@
   .etiq { font-size: 12.5px; font-weight: 600; fill: var(--encre); paint-order: stroke; stroke: #fff; stroke-width: 3.5px; stroke-linejoin: round; pointer-events: none; }
   .etiq.dans { font-size: 11.5px; }
   .trait { stroke: var(--encre); stroke-width: .8; pointer-events: none; }
+  .point { fill: var(--encre); pointer-events: none; }
   .cle b { font-weight: 600; margin-left: 2px; }
   .cle b.rouge { color: #a3122a; }
   .cle .moy { stroke-dasharray: 5 3; }
